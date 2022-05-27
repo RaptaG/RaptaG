@@ -1,6 +1,6 @@
 # RaptaG
 
-Hi there, I'm RaptaG a:
+Hi there, I'm RaptaG:
 
 - Linux User 🐧
 - Shell Scripter 🖥️
