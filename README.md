@@ -21,4 +21,4 @@ I sometimes translate Minecraft mods and resource packs in my native language.
 The operating system I prefer and use is Linux. I tend using Arch-based distros such as Manjaro, Garuda and EndeavourOS. I enjoy making shell scripts to automate some manual processes. When possible, I make them work in MacOS too!
 
 ## Current Status
-I'm working on projects such as Fabulously Optimized, [CAAIS](https://github.com/RaptaG/CAAIS)  and my modlist
+I'm working on projects such as Fabulously Optimized and [bash scripts](https://github.com/RaptaG?tab=repositories&q=&type=&language=shell&sort=).
