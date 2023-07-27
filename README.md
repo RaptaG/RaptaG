@@ -1,31 +1,20 @@
-# <a href="https://codeberg.org/RaptaG"><img width="25" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
+# <a href="https://codeberg.org/RaptaG"><img width="50" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
 
-Hello there! My name is RaptaG and I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
+Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
 
 ## Skills
 
 ### Good / statisfying knowledge
 
-![Markdown, Discord, GitHub, Linux, VSCode & Mastodon](https://skillicons.dev/icons?i=md,discord,github,linux,vscode,mastodon)
+[![Markdown, Discord, GitHub, Linux, VSCode & Mastodon](https://skillicons.dev/icons?i=md,discord,github,linux,vscode,mastodon)](https://skillicons.dev)
 
 ### Some knowledge / still learning
 
-![C++, git, HTML & Bash](https://skillicons.dev/icons?i=cpp,git,html,bash)
+[![C++, git, HTML & Bash](https://skillicons.dev/icons?i=cpp,git,html,bash)](https://skillicons.dev)
 
 ### Planing to learn
 
-![CSS, Neovim, Qt, Python, Java, JavaScript, C, C#, Flutter, Raspberry Pi](https://skillicons.dev/icons?i=css,neovim,qt,py,java,js,c,cs,flutter,raspberrypi)
-
-##### Stickers from https://skillicons.dev
-
-## 🎆 Interests
-
-I really love the following:
-
-- 🐧 Linux
-- 👨‍💻 Programming
-- ♥️ Open source
-- 🎸 Rock & Metal music
+[![CSS, Neovim, Qt, Python, Java, JavaScript, C, C#, Flutter, Raspberry Pi](https://skillicons.dev/icons?i=css,neovim,qt,py,java,js,c,cs,flutter,raspberrypi)](https://skillicons.dev)
 
 ## 🟢 Activities
 
