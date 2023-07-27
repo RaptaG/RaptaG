@@ -1,4 +1,4 @@
-# <a href="https://codeberg.org/RaptaG"><img width="50" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
+# <a href="https://codeberg.org/RaptaG"><img width="35" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
 
 Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
 
@@ -6,15 +6,15 @@ Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux 
 
 ### Good / statisfying knowledge
 
-[![Markdown, Discord, GitHub, Linux, VSCode & Mastodon](https://skillicons.dev/icons?i=md,discord,github,linux,vscode,mastodon)](https://skillicons.dev)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://joinmastodon.org)
 
 ### Some knowledge / still learning
 
-[![C++, git, HTML & Bash](https://skillicons.dev/icons?i=cpp,git,html,bash)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
 ### Planing to learn
 
-[![CSS, Neovim, Qt, Python, Java, JavaScript, C, C#, Flutter, Raspberry Pi](https://skillicons.dev/icons?i=css,neovim,qt,py,java,js,c,cs,flutter,raspberrypi)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
 
 ## 🟢 Activities
 
