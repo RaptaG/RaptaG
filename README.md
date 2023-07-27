@@ -1,4 +1,4 @@
-# RaptaG
+# <a href="https://codeberg.org/RaptaG"><img width="25" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
 
 Hello there! My name is RaptaG and I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
 
