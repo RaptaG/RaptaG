@@ -1,4 +1,4 @@
-# <a href="https://codeberg.org/RaptaG"><img width="35" src="https://codeberg.org/avatars/4f8a03618be5cc2c16d93ced1c05d21c"></a> RaptaG
+# RaptaG
 
 Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
 
@@ -12,7 +12,7 @@ Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux 
 
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![HTML](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/multipage) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash)
 
-### Planing to learn
+### Planning to learn
 
 [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
 
