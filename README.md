@@ -1,6 +1,6 @@
 # RaptaG
 
-Hello there! My name is RaptaG, I'm a 15 year old begginer programmer and Linux user located in Greece.<br />
+Hello there! My name is George Raptis and I'm a 15 year old begginer programmer located in Greece.<br />
 
 ## 💪 Skills
 
