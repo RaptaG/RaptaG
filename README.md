@@ -6,7 +6,7 @@ Hello there! My name is George Raptis and I'm a 15 year old begginer programmer 
 
 ### 😃 Good / statisfying knowledge
 
-[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash) [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://joinmastodon.org)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://daringfireball.net/projects/markdown) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com) [![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org) [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash) [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://joinmastodon.org)
 
 ### 🤔 Some knowledge / still learning
 
