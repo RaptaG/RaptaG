@@ -1,6 +1,6 @@
 # RaptaG
 
-Hello there! My name is George Raptis and I'm a 15 year old begginer programmer located in Greece.<br />
+Hello there! My name is George Raptis and I'm a 15 year old begginer programmer located in Greece.
 
 ## 💪 Skills
 
@@ -16,19 +16,13 @@ Hello there! My name is George Raptis and I'm a 15 year old begginer programmer 
 
 [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
 
+## ☎️ Contact
+
+- **🗨️ Matrix**: [@raptag:matrix.org](https://matrix.to/#/@raptag:matrix.org)
+- **🐘 Mastodon**: [@raptag@kafeneio.social](https://kafeneio.social/@raptag)
+- **🐈‍⬛ GitHub**: [@RaptaG](https://github.com/RaptaG)
+- **🗻 Codeberg**: [@RaptaG](https://codeberg.org/RaptaG)
+
 ## 🟢 Activities
 
-Right now I participate on a C++ course to kick-start my programming carrer.
-
-I'm also GitHub moderator and contributor on the [Spotube](https://spotube.netlify.app) project, an open-source, Electron-free Spotify client without ads or trackers, that **doesn't require a Spotify Premium subscription** and utilizes YouTube & YT Music APIs to stream each song.
-
-Additionally, I'm a community moderator and contributor of the [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) Minecraft modpack,<br />
-on [Modrinth](https://modrinth.com/modpack/fabulously-optimized), [GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized), [Discord](https://fabulously-optimized.github.io/discord) & [CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized).
-
-<!--
-
-## <a href="https://codeberg.org"><img width="25" src="https://codeberg.org/Codeberg/Design/raw/branch/main/logo/icon/png/codeberg-logo_icon_blue-64x64.png"></a> Codeberg
-
-A part of my move away from centralized propritery companies to open source and decentralized networks, I now use [Codeberg](https://codeberg.org) as my git service. Unlike GitHub, it's completely open source and values open source projects. In fact, only open source projects are allowed there. I suggest you read this article: https://giveupgithub.org
-
--->
+Currently, I am practicing with C++ and learning CSS from [freeCodeCamp](https://freecodecamp.org).
