@@ -14,7 +14,7 @@ Hello there! My name is George Raptis and I'm a 15-year-old begginer programmer 
 
 ### 🧐 Planning to learn
 
-[![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
+[![Qt](https://skillicons.dev/icons?i=qt)](https://www.qt.io) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org) [![Java](https://skillicons.dev/icons?i=java)](https://www.oracle.com/java) [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262) [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C#](https://skillicons.dev/icons?i=cs)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [![Neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io) [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) [![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org)
 
 ## ☎️ Contact
 
