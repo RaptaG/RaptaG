@@ -1,6 +1,6 @@
 # RaptaG
 
-Hello there! My name is George Raptis and I'm a 15 year old begginer programmer located in Greece.
+Hello there! My name is George Raptis and I'm a 15-year-old begginer programmer located in Greece.
 
 ## 💪 Skills
 
@@ -10,7 +10,7 @@ Hello there! My name is George Raptis and I'm a 15 year old begginer programmer 
 
 ### 🤔 Some knowledge / still learning
 
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org) [![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS) [![git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 
 ### 🧐 Planning to learn
 
